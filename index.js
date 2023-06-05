@@ -1,1 +1,1 @@
-console.log('moasko');
+console.log('zza');
